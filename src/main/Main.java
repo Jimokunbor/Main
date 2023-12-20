@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * c:/Users/jimok/Videos/Debut/2023-12-20_05-15-31 - jimok.mp4
+ *GitHub link:
+ * Group Member 1 Name:
  */
 package main;
 
