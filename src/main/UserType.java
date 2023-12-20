@@ -5,9 +5,10 @@
 package main;
 
 /**
- *
+ * Enumeration representing user types: ADMIN and REGULAR.
  * @author jimok
  */
 public enum UserType {
+    ADMIN, REGULAR
     
 }
