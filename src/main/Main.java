@@ -1,7 +1,11 @@
 /*
- * c:/Users/jimok/Videos/Debut/2023-12-20_05-15-31 - jimok.mp4
- *GitHub link:
- * Group Member 1 Name:
+ * Screencast link: c:/Users/jimok/Videos/Debut/2023-12-20_05-15-31 - jimok.mp4
+ *GitHub link: https://github.com/Jimokunbor/Main
+ * Group Member 1 Name: Okunbor James Ehigiamusoe
+ * Group Member 1 Student Number: 2022473
+ * Group Member 2 Name: Gustavo Almeida
+ * Group Member 2 Student Number: 2022553
+ * Task completed by two
  */
 package main;
 
